@@ -1,6 +1,6 @@
 
 
-The second set of graphs below we show the most pronounced differences to the far right and left of each diagram. Here we see all tools in the survey sorted by research phase and research activity. We calculate the difference as for the first set of graphs (see above). The bars on the far-right show the largest positive difference (ie, the tool is more popular among non-tenured researchers); the bars on the far-left show the largest negative difference (ie, the tool is more popular among tenured researchers).
+In the second set of graphs below, the most pronounced differences are shown to the far-right and -left of each diagram. Here we see all tools in the survey sorted by research phase and research activity. We calculate the difference in the same way as for the first set of graphs (see above). The bars on the far-right show the largest positive difference (ie, the tool is more popular among non-tenured researchers); the bars on the far-left show the largest negative difference (ie, the tool is more popular among tenured researchers).
 
 ```{r Vraag111.AlleTools.subfasen.Rmd, echo=FALSE,results='asis'}
 
