@@ -128,11 +128,11 @@ In this table we put the number of respondents from each discipline next to the 
 
 For the first number we count the numbers of disciplines in VU respondents data. For the potential total response size for each discipline, we try to match the discipline from the survey to the faculties. This way we get an impression of the response rate of each faculty.
 
-We realise that the separation and unifications are made some what artificial, and we have to remind the reader that one respondent could select multiple disciplines.
+We realise that the separation and unifications are somewhat artificial, and we [have to [dit kan weg?] remind the reader that one respondent could select multiple disciplines.
 
-To know the total number of academic staff that could have filled out the survey for that discipline, we used the number of VU scientific personnel to represent a survey discipline is calculated by splitting or joining the number of academic staff at a faculty.
+To calculate the total number of academic staff that could have filled out the survey for that discipline, we used the number of VU scientific personnel to represent a survey discipline is calculated by splitting or joining the number of academic staff at a faculty.
 
-We split the number of the Science faculty to represent the disciplines of Physical sciences and Technology and Engineering. And we joined the faculties Behavioural and Movement Sciences *and* Earth and Lifesciences to represent the respondents for the discipline Life Sciences. Also we joined the faculties Medicine *and* Dentistry to represent respondents from Medicine. Faculties Social Sciences *and* Economics and Business Administration were joined to represent respondents from Social Sciences and Economics. Also the faculties Theology *and* Humanities were joined to represent the respondents from Arts & Humanities.
+We split the number of the Science faculty to represent the disciplines of Physical sciences and Technology and Engineering. And we joined the faculties Behavioural and Movement Sciences *and* Earth and Lifesciences to represent the respondents for the discipline Life Sciences. We joined the faculties Medicine *and* Dentistry, too, to represent respondents from Medicine. Faculties Social Sciences *and* Economics and Business Administration were joined to represent respondents from Social Sciences and Economics. And  the faculties Theology *and* Humanities were joined to represent the respondents from Arts & Humanities.
 
 The percentage of responses are calculated by relating the number of VU respondents on the survey for each discipline, to the total number of academic staff that could have filled out the survey for that discipline.
 
