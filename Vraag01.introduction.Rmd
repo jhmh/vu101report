@@ -8,7 +8,7 @@ The VU University Library wants her services to be closely connected to the scho
 
 <!-- De UBVU wil haar dienstverlening graag zo dicht mogelijk laten aansluiten bij het wetenschappelijke communicatieproces van de onderzoekers van VU en VUmc. -->
 
-The way researchers share and claim their findings (scholarly communication) is changing under the influence of the application of new communication technologies. In the digital era, the medium has changed, and influences the way scholars communicate: new ways to *discover* the latest scientific information, setup faster *analyses* designed for reproducibility, *write* collaboratively, *publish* articles and reusable data in new ways on the internet, do the *outreach* of findings in more then one channel, have the *assessment* of findings done in different ways.
+The way researchers share and claim their findings (scholarly communication) is changing under the influence of the application of new communication technologies. In the digital era, the medium has changed, and this influences the way scholars communicate: new ways to *discover* the latest scientific information, setup faster *analyses* designed for reproducibility, *write* collaboratively, *publish* articles and reusable data in new ways on the internet, do the *outreach* of findings in more then one channel, have the *assessment* of findings done in different ways.
 
 <!-- Het wetenschappelijke communicatieproces is volop in beweging. Dit komt door de inzet van digitale middelen binnen de onderzoeksfases: Discovery, Analysis, Writing, Publication, Outreach en Assessment. -->
 
@@ -19,7 +19,7 @@ This project investigates the use of digital tools used in scholarly communicati
 
 <!-- Het project doet onderzoek naar naar wat het gebruik is van deze digitale middelen binnen het VU en VUmc, en sluit hierbij aan bij een internationaal onderzoek waardoor resultaten vergeleken kunnen worden met andere landen. -->
 
-The results in this report are meant as conversational material with the faculties to improve library services, in such way they are better improving the work of researchers in their activities in scholarly communication.
+The results in this report are meant as a basis for the conversation with the faculties, to improve and evolve library services toto better assist the work of researchers in their activities in scholarly communication.
 
 <!-- De onderstaande resultaten zijn bedoeld als gespreksstof met de faculteiten om de dienstverlening te verbeteren, vernieuwen en te veranderen, zodat ze beter aansluit bij de fases van de onderzoekspraktijk van de onderzoekers. -->
 
